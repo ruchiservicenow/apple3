@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="apple3table" language="en" table="sn_apple3_apple3table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>apple3table</label>
+            <language>en</language>
+            <name>sn_apple3_apple3table</name>
+            <plural>apple3tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:22:22</sys_created_on>
+            <sys_id>2948dbd619b68010f87779baf659d3f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>apple3table</sys_name>
+            <sys_package display_value="apple3" source="sn_apple3">4c289bd619b68010f87779baf659d31f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="apple3">4c289bd619b68010f87779baf659d31f</sys_scope>
+            <sys_update_name>sys_documentation_sn_apple3_apple3table__en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:22:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
